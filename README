@@ -1,4 +1,5 @@
--- raramuridesign.com
--- 2012-02-06
+-- okijana.com
+-- 2015-03-30
 -- use this to import a list of countries into your database
-------------------------------------------------------------
+-- forked from https://github.com/raramuridesign/mysql-country-list
+---------------------------------------------------------------------
